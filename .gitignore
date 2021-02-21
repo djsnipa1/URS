@@ -7,3 +7,5 @@ urs/Credentials.py
 scrapes/*
 
 URS.egg-info/*
+
+.theia/*
